@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ch2.zaman.java&apos; to &apos;Zaman.java&apos;&#x0D;&#x0A;- Original project: &apos;Nesne_Yonelimli_Java&apos;&#x0D;&#x0A;- Original element: &apos;ch2.zaman.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ch2.Zaman.java&apos;" description="Rename compilation unit &apos;zaman.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ch2{zaman.java" name="Zaman.java" references="false" stamp="1646471754345" version="1.0"/>
+</session>
